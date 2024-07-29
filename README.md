@@ -1,6 +1,6 @@
 # Hi, my name is Renan!
 
-👨🏻‍💻 Back-End Developer
+👨🏻‍💻 Developer
 
 💼 Quality Assurance Tester at [Coreplan Gestão e Tecnologia](https://www.coreplan.com.br)
 
