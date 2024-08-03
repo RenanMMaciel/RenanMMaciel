@@ -6,7 +6,7 @@
 
 
 ## About
-I am a Back-End Developer, in love with the tech area and passionate about solving problems.
+I am a Developer, in love with the tech area and passionate about solving problems.
 
 I have experiencie with the following technologies:
 - HTML
