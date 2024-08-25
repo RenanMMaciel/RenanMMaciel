@@ -21,6 +21,7 @@ I have experiencie with the following technologies:
 - Git
 - GitHub
 - GitLab
+- Azure DevOps
 
 I'm capable of developing smart solutions and solving the provided problems by producing high-quality code and utilizing the most used standards in the market. 
 
