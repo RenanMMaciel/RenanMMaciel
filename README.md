@@ -8,7 +8,7 @@
 ## About
 I am a Developer, in love with the tech area and passionate about solving problems.
 
-I have experiencie with the following technologies:
+I have experiencie with the following technologies and platforms:
 - HTML
 - CSS
 - Bootstrap
