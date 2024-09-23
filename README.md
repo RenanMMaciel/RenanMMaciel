@@ -1,24 +1,25 @@
 # Hi, my name is Renan!
 
-👨🏻‍💻 Developer
+👨🏻‍💻 DevOps
 
 💼 Quality Assurance Tester at [Coreplan Gestão e Tecnologia](https://www.coreplan.com.br)
 
 
 ## About
-I am a Developer, in love with the tech area and passionate about solving problems.
+I am a DevOps student, in love with the tech area and passionate about solving problems.
 
 I have experiencie with the following technologies and platforms:
+- JavaScript
+- Ruby on Rails
 - HTML
 - CSS
 - Bootstrap
-- JavaScript
-- Ruby
-- Rails
 - PostgreSQL
 - Cypress
-- Docker
+- RSpec
 - Git
+- Docker
+- Ansible
 - GitHub
 - GitLab
 - Azure DevOps
