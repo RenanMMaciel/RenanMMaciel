@@ -1,14 +1,14 @@
 # Hi, my name is Renan!
 
-👨🏻‍💻 DevOps
-
-💼 Quality Assurance Tester at [Coreplan Gestão e Tecnologia](https://www.coreplan.com.br)
-
+💼 DevOps at [FitBank](https://fitbank.com.br)
 
 ## About
-I am a DevOps student, in love with the tech area and passionate about solving problems.
+I am a DevOps professional, in love with the tech area and passionate about solving problems.
 
 I have experiencie with the following technologies and platforms:
+- Docker
+- Ansible
+- Git
 - JavaScript
 - Ruby on Rails
 - HTML
@@ -17,14 +17,11 @@ I have experiencie with the following technologies and platforms:
 - PostgreSQL
 - Cypress
 - RSpec
-- Git
-- Docker
-- Ansible
 - GitHub
 - GitLab
 - Azure DevOps
 
-I'm capable of developing smart solutions and solving the provided problems by producing high-quality code and utilizing the most used standards in the market. 
+I'm capable of developing smart solutions and solving the provided problems utilizing the most used technologies and best practices in the market.
 
 I love challenges and I want to grow professionally every single day.
 
