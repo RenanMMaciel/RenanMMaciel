@@ -8,19 +8,21 @@ I am a DevOps professional, in love with the tech area and passionate about solv
 I have experiencie with the following technologies and platforms:
 - Docker
 - Ansible
+- Terraform
 - Git
+- Shell Script
 - JavaScript
 - Ruby on Rails
 - HTML
 - CSS
-- Bootstrap
 - PostgreSQL
 - Cypress
 - RSpec
 - GitHub
 - GitLab
 - Azure DevOps
-- GCP
+- Google Cloud Platform
+- Datadog
 
 I'm capable of developing smart solutions and solving the provided problems utilizing the most used technologies and best practices in the market.
 
