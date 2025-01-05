@@ -1,6 +1,6 @@
 # Hi, my name is Renan!
 
-💼 DevOps at [FitBank](https://fitbank.com.br)
+💼 DevOps at [Cubos DevOps](https://cubos.io/devops)
 
 ## About
 I am a DevOps professional, in love with the tech area and passionate about solving problems.
