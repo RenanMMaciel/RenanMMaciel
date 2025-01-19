@@ -22,7 +22,7 @@ I have experiencie with the following technologies and platforms:
 - Grafana
 - Datadog
 - JavaScript
-- Ruby on Rails
+- Ruby
 - HTML
 - CSS
 - Cypress
