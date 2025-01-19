@@ -6,8 +6,8 @@
 I am a DevOps professional, in love with the tech area and passionate about solving problems.
 
 I have experiencie with the following technologies and platforms:
-- Docker
 - Kubernetes
+- Docker
 - Amazon Web Services
 - Google Cloud Platform
 - Azure DevOps
