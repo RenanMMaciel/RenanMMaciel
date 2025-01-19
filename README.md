@@ -18,7 +18,6 @@ I have experiencie with the following technologies and platforms:
 - Git
 - Shell Script
 - Rancher
-- Elastic Stack
 - Prometheus
 - Grafana
 - Datadog
