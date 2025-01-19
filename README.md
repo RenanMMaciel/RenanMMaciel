@@ -17,6 +17,7 @@ I have experiencie with the following technologies and platforms:
 - Ansible
 - Git
 - Shell Script
+- Rancher
 - Elastic Stack
 - Prometheus
 - Grafana
@@ -25,7 +26,6 @@ I have experiencie with the following technologies and platforms:
 - Ruby on Rails
 - HTML
 - CSS
-- PostgreSQL
 - Cypress
 
 I'm capable of developing smart solutions and solving the provided problems utilizing the most used technologies and best practices in the market.
