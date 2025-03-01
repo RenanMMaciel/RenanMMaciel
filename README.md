@@ -22,6 +22,7 @@ I have experiencie with the following technologies and platforms:
 - Grafana
 - Datadog
 - JavaScript
+- TypeScript
 - Ruby
 - HTML
 - CSS
