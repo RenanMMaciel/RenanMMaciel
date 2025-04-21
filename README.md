@@ -23,7 +23,6 @@ I have experiencie with the following technologies and platforms:
 - Datadog
 - JavaScript
 - TypeScript
-- Ruby
 - HTML
 - CSS
 - Cypress
