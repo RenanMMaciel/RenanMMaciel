@@ -1,6 +1,6 @@
 # Hi, my name is Renan!
 
-💼 DevOps Engineer at [Cubos DevOps](https://github.com/cubos-devops)
+💼 DevOps Engineer at [Cubos DevOps](https://devops.cubos.io)
 
 ## About
 I am a DevOps professional, in love with the tech area and passionate about solving problems.
