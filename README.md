@@ -20,6 +20,7 @@ I have experiencie with the following technologies and platforms:
 - Rancher
 - Prometheus
 - Grafana
+- Cloudflare
 - Datadog
 - JavaScript
 - TypeScript
