@@ -11,6 +11,7 @@ I have experiencie with the following technologies and platforms:
 - Amazon Web Services
 - Google Cloud Platform
 - Azure DevOps
+- Cloudflare
 - GitHub
 - GitLab
 - Terraform
@@ -20,7 +21,6 @@ I have experiencie with the following technologies and platforms:
 - Rancher
 - Prometheus
 - Grafana
-- Cloudflare
 - Datadog
 - JavaScript
 - TypeScript
