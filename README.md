@@ -8,22 +8,22 @@ I am a DevOps professional, in love with the tech area and passionate about solv
 I have experiencie with the following technologies and platforms:
 - Kubernetes
 - Docker
+- Terraform
 - Amazon Web Services
 - Google Cloud Platform
 - Azure DevOps
 - Cloudflare
 - GitHub
 - GitLab
-- Terraform
-- Ansible
-- Git
-- Shell Script
-- Rancher
 - Prometheus
 - Grafana
 - Datadog
+- Rancher
+- Ansible
+- Shell Script
 - JavaScript
 - TypeScript
+- Git
 - HTML
 - CSS
 - Cypress
