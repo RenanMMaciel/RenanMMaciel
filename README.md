@@ -28,6 +28,10 @@ I have experiencie with the following technologies and platforms:
 - CSS
 - Cypress
 
+I hold these certifications
+- AWS Certified Cloud Practitioner
+- Associate Cloud Engineer Certification
+
 I'm capable of developing smart solutions and solving the provided problems utilizing the most used technologies and best practices in the market.
 
 I love challenges and I want to grow professionally every single day.
