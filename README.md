@@ -24,9 +24,9 @@ I have experiencie with the following technologies and platforms:
 - JavaScript
 - TypeScript
 - Git
+- Cypress
 - HTML
 - CSS
-- Cypress
 
 I hold these certifications:
 - Cloud Practitioner (AWS)
