@@ -28,7 +28,7 @@ I have experiencie with the following technologies and platforms:
 - CSS
 - Cypress
 
-I hold these certifications
+I hold these certifications:
 - Cloud Practitioner (AWS)
 - Associate Cloud Engineer (GCP)
 
