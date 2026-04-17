@@ -29,8 +29,8 @@ I have experiencie with the following technologies and platforms:
 - Cypress
 
 I hold these certifications
-- AWS Certified Cloud Practitioner (AWS)
-- Associate Cloud Engineer Certification (GCP)
+- Cloud Practitioner (AWS)
+- Associate Cloud Engineer (GCP)
 
 I'm capable of developing smart solutions and solving the provided problems utilizing the most used technologies and best practices in the market.
 
